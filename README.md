@@ -20,7 +20,7 @@
 ## Current Projects
 - C/C++
 - Linux System Programming
-- AI Learning Journey
+- AI & LLM Learning Projects
 
 ## Goals for 2026
 - Build production-quality C++ repositories
