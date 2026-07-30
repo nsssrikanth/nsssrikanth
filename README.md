@@ -1,25 +1,25 @@
-# Hi 👋 I'm Srikanth
+# Hi, I'm Srikanth 👋
 
 ## About Me
-
-- 💻 14+ Years of Software Engineering Experience
+- 💻 14+ years in Software Engineering
 - ⚙️ C/C++ & Linux Systems Programming
-- 🧵 Multithreading, IPC & Socket Programming
-- 🤖 Currently learning AI, LLMs & Enterprise AI
+- 🤖 Learning AI, LLMs & Enterprise AI
 
 ## Tech Stack
-
 - C
 - C++
 - Linux
-- Python(Basic)
+- Python
 - Git
-- Docker (Learning)
+- Docker
 - AWS (Learning)
-- LLMs (Learning)
 
-## Current Focus
-
-- C++ Interview Preparation
+## Current Projects
+- C/C++
 - Linux System Programming
-- AI & Enterprise AI
+- AI Learning Journey
+
+## Goals for 2026
+- Build production-quality C++ repositories
+- Develop AI & LLM applications
+- Contribute to open source
