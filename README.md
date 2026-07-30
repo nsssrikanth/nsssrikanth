@@ -9,10 +9,13 @@
 - C
 - C++
 - Linux
-- Python
 - Git
-- Docker
+- ADO
+- Docker (Learning)
 - AWS (Learning)
+- C# (Basics)
+- Python (Basics)
+- Shell scripting (Basics)
 
 ## Current Projects
 - C/C++
