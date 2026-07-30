@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Srikanth
 
-<!--
-**nsssrikanth/nsssrikanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 14+ Years of Software Engineering Experience
+- ⚙️ C/C++ & Linux Systems Programming
+- 🧵 Multithreading, IPC & Socket Programming
+- 🤖 Currently learning AI, LLMs & Enterprise AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- C
+- C++
+- Linux
+- Python(Basic)
+- Git
+- Docker (Learning)
+- AWS (Learning)
+- LLMs (Learning)
+
+## Current Focus
+
+- C++ Interview Preparation
+- Linux System Programming
+- AI & Enterprise AI
